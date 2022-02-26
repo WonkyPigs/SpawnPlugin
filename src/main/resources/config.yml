@@ -1,0 +1,6 @@
+# DO NOT MANUALLY CHANGE THE CONTENTS OF THIS FILE UNLESS YOU KNOW WHAT YOU ARE DOING!
+
+# Do you want all players to be teleported to the set spawn location every time they join the server?
+spawnonjoin: false
+# Do you want all players to be teleported to the set spawn location every time they respawn?
+spawnondeath: false

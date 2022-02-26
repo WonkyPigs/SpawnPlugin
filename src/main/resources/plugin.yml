@@ -1,0 +1,16 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: com.wonkypigs.spawnplugin.SpawnPlugin
+api-version: 1.18
+authors: [ WonkyPigs ]
+description: A simple spawn plugin
+website: https://wonkypigs.github.io
+commands:
+  setspawn:
+    description: Set the server spawnpoint
+    usage: /setspawn
+    permission: spawnplugin.setspawn
+  spawn:
+    description: Teleport to the server spawnpoint
+    usage: /spawn
+    permission: spawnplugin.spawn
